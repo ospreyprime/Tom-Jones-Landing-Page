@@ -23,7 +23,7 @@ git --version
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/<organization>/<repository-name>.git
+git clone https://github.com/ospreyprime/Tom-Jones-Landing-Page.git
 ```
 
 Navigate into the project directory:
