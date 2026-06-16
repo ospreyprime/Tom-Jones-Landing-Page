@@ -29,7 +29,7 @@ git clone git@github.com:ospreyprime/Tom-Jones-Landing-Page.git
 Navigate into the project directory:
 
 ```bash
-cd <repository-name>
+cd Tom-Jones-Landing-Page
 ```
 
 ---
