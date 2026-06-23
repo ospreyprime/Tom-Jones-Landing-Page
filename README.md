@@ -1,6 +1,6 @@
-# Chicha Landing Page
+# CookEspy Landing Page
 
-This repository contains the source code and assets for the Chicha landing page website.
+This repository contains the source code and assets for the CookEspy landing page website.
 
 ## Prerequisites
 
