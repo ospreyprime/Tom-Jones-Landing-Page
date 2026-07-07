@@ -119,6 +119,34 @@ li {
 }
 
 /* ==========================================
+   Waitlist Section
+========================================== */
+
+.waitlist-section {
+    margin-bottom: 64px;
+    text-align: center;
+}
+
+.waitlist-section h2 {
+    margin-bottom: 16px;
+}
+
+.waitlist-button {
+    display: inline-block;
+    background-color: #1d1d1f;
+    color: white;
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 600;
+    transition: background-color 0.2s ease;
+}
+
+.waitlist-button:hover {
+    background-color: #555;
+}
+
+/* ==========================================
    Footer
 ========================================== */
 
