@@ -1,6 +1,8 @@
 # CookEspy Landing Page
 
-This repository contains the source code and assets for the CookEspy landing page website.
+This repository contains the source code and assets for the CookEspy landing page website. Use the following url:
+
+https://www.cookespy.com
 
 ## Prerequisites
 
