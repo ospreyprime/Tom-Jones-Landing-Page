@@ -1,8 +1,8 @@
-# CookEspy Landing Page
+# Quicinare Landing Page
 
-This repository contains the source code and assets for the CookEspy landing page website. Use the following url:
+This repository contains the source code and assets for the Quicinare landing page website. Use the following url:
 
-https://www.cookespy.com
+https://www.quicinare.com
 
 ## Prerequisites
 
