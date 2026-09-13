@@ -28,7 +28,7 @@ body {
 ========================================== */
 
 header {
-    padding: 14px 0;
+    /*padding: 14px 0;*/
     border-bottom: 1.5px solid #e5e5e5;
 }
 
@@ -41,8 +41,13 @@ nav {
 .logo a {
     text-decoration: none;
     color: #1d1d1f;
-    font-size: 1.00rem;
-    font-weight: 700;
+    font-size: 3.00rem;
+    font-weight: 500;
+}
+
+.logo-img {
+    height: 40px; /* Adjust size as needed */
+    width: auto;
 }
 
 .nav-links {
